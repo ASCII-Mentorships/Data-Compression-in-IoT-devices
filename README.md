@@ -17,13 +17,13 @@
 5. **_Subsequent work for 2023_** - Publish research paper if the results are promising.
 
 ## Prerequisites
-1. Good grasp on fundamentals of Data Structures and Algorithms and/or Machine learning
+1. Good grasp on fundamentals of Data Structures and Algorithms and/or Machine learning.
     - We will use concepts like sliding window (LZ77 compression algorithms) and trees (Huffman coding)
-    - We will use certaing machine learning techniques like data deduplication for achieving our goal.
+    - We will use certain machine learning techniques like data deduplication for achieving our goal.
     - Either DSA or ML knowledge is sufficient.
 2. Proficiency in either C or C++ or Java or Python, knowledge of more than one language is better.
 3. Understanding of basic computer components such as what is a processor, memory etc.
-4. Willingness to learn and a passion for problem solving
+4. Willingness to learn and a passion for problem solving.
     - We will be working on some cool stuff such as Raspberry PIs and Arduino :)
     
 ##  Project leaders
